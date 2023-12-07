@@ -1,0 +1,20 @@
+[
+  {
+    "name": "the witcher 3",
+    "year": 2015,
+    "genere": "RPG",
+    "stock": 10
+  },
+  {
+    "name": "the last of Us",
+    "year": 2013,
+    "genere": "Action",
+    "stock": 0
+  },
+  {
+    "name": "Good of war",
+    "year": 2018,
+    "genere": "Action",
+    "stock": 100
+  }
+]
